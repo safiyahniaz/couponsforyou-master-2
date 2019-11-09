@@ -9,7 +9,8 @@ var app = new Vue({
                 couponName: '2pc Chicken Meal',
                 dueDate: '19 Nov 2019',
                 invalidPlaces: 'KFC Jewel Changi Airport, Kidzania and Singapore Zoo',
-                invalidThings: 'KFC Delivery and KFC Corporate Events'
+                invalidThings: 'KFC Delivery and KFC Corporate Events',
+                gambar: ""
             },
             {
                 companyName: 'KFC',
@@ -18,13 +19,27 @@ var app = new Vue({
                 couponName: 'Hot & Crispy Tenders (2 pcs)',
                 dueDate: '19 Nov 2019',
                 invalidPlaces: 'KFC Jewel Changi Airport, Kidzania and Singapore Zoo',
-                invalidThings:'KFC Delivery and KFC Corporate Events'
+                invalidThings:'KFC Delivery and KFC Corporate Events',
+                gambar: ""
             },
             {
-                companyName: 'Eighteen Chefs',
-                code: '1234',
-                price: '$10',
-                couponName: '$10 off'
+                companyName: 'KFC',
+                code: '2TENDERS',
+                price: '$4.95',
+                couponName: '2pc Chicken Meal',
+                dueDate: '19 Nov 2019',
+                invalidPlaces: 'KFC Jewel Changi Airport, Kidzania and Singapore Zoo',
+                invalidThings: 'KFC Delivery and KFC Corporate Events',
+                gambar: ""
+            }, {
+                companyName: 'KFC',
+                code: '2TENDERS',
+                price: '$4.95',
+                couponName: '2pc Chicken Meal',
+                dueDate: '19 Nov 2019',
+                invalidPlaces: 'KFC Jewel Changi Airport, Kidzania and Singapore Zoo',
+                invalidThings: 'KFC Delivery and KFC Corporate Events',
+                gambar: ""
             },
 
         ],
